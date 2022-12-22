@@ -10,3 +10,9 @@ Versatile full-stack engineer with strong programming fundamentals, and a keen e
 - 📫 How to reach me: 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching anime, going to gym & hate inconsistencies
+
+-------
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+-------
