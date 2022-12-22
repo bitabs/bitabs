@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hya 👋 Nas here
 
-<!--
-**bitabs/bitabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Versatile full-stack engineer with strong programming fundamentals, and a keen eye for pixel-perfect design. Experienced in building performant and scalable systems with high availability. Domain expert in multi-brand design systems. Truly full-stack engineer looking to help solve real-world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio, design system & family business
+- 🌱 I’m currently learning Rust, Go & Deno
+- 👯 I’m looking to collaborate on design system projects
+- 🤔 I’m looking for help with Rust
+- 💬 Ask me about React, UI & SEO
+- 📫 How to reach me: 
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love watching anime, going to gym & hate inconsistencies
