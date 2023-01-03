@@ -16,7 +16,10 @@ Versatile full-stack engineer with strong programming fundamentals, and a keen e
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   4 hrs 21 mins   █████████████████████░░░░   83.52 %
+JSON         36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
