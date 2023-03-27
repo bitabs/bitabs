@@ -16,11 +16,11 @@ Versatile full-stack engineer with strong programming fundamentals, and a keen e
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   23 hrs 38 mins  ███████████▓░░░░░░░░░░░░░   46.37 %
-JSON         10 hrs 5 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-YAML         6 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Bash         4 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Other        3 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+TypeScript   18 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   43.00 %
+JSON         8 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+YAML         6 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Bash         4 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other        3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 ```
 
 <!--END_SECTION:waka-->
