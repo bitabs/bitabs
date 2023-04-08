@@ -16,9 +16,9 @@ Versatile full-stack engineer with strong programming fundamentals, and a keen e
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 7 mins   █████████████▓░░░░░░░░░░░   54.00 %
-JavaScript   3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
-Other        2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+TypeScript   12 hrs 2 mins   ███████████▓░░░░░░░░░░░░░   46.60 %
+JavaScript   6 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
+Other        3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 ```
 
 <!--END_SECTION:waka-->
