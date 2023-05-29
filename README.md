@@ -1,6 +1,6 @@
 # Hya 👋 Nas here
 
-Fellow coders! Versatile full-stack engineer with a knack for flawlessly combining programming wizardry and stunning design. Let's keep it short and sweet:
+Fellow coders! I'm a Versatile full-stack engineer with a knack for flawlessly combining programming wizardry and stunning design. Let's keep it short and sweet:
 
 - 🔭 Building my portfolio, crafting a killer Design System, and tackling tricky challenges.
 - 🌱 Learning Rust, Go, and Bun—because who doesn't love adding new languages to their arsenal?
