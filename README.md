@@ -1,15 +1,20 @@
 # Hya 👋 Nas here
 
-Versatile full-stack engineer with strong programming fundamentals, and a keen eye for pixel-perfect design. Experienced in building performant and scalable systems with high availability. Domain expert in multi-brand design systems. Truly full-stack engineer looking to help solve real-world problems.
+Fellow coders! Versatile full-stack engineer with a knack for flawlessly combining programming wizardry and stunning design. Let's keep it short and sweet:
 
-- 🔭 I’m currently working on my portfolio, and design system, and occasionally solving challenges
-- 🌱 I’m currently learning Rust, Go & Bun
-- 👯 I’m looking to collaborate on projects that will have a bigger impact on the dev community
-- 🤔 I’m looking for help with Rust, Go & Bun
-- 💬 Ask me about React, Js, and Design System
-- 📫 How to reach me: LinkedIn, GitHub or through email
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love watching anime, going to the gym & hate UI inconsistencies
+- 🔭 Building my portfolio, crafting a killer Design System, and tackling tricky challenges.
+- 🌱 Learning Rust, Go, and Bun—because who doesn't love adding new languages to their arsenal?
+- 👯 Ready to collaborate on game-changing projects that leave a lasting impact on the dev community.
+- 🤔 Seeking guidance from the Rust, Go, and Bun gurus out there. Help a developer out!
+- 💬 Ask me anything about React, Js, or Design Systems—I've got you covered!
+- 📫 Connect with me on LinkedIn, GitHub, or shoot me an email. Let's chat!
+- 😄 Pronouns: He/him—because let's keep things personal and inclusive.
+- ⚡ Fun fact: When I'm not coding like a rockstar, you'll find me indulging in anime, hitting the gym, devouring blogs, and passionately despising UI inconsistencies.
+
+GitHub: github.com/bitabs
+Web: nas.engineer (work in progress 🕒)
+
+Let's make some coding magic together!
 
 -------
 📊 **Weekly development breakdown**
