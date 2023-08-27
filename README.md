@@ -20,11 +20,11 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              4 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   35.43 %
-TOML              2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-Rust              1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Protocol Buffer   1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Markdown          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+YAML              5 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   36.92 %
+TOML              2 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
+Rust              2 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Protocol Buffer   1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Markdown          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
