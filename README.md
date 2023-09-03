@@ -20,11 +20,11 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             8 hrs 31 mins   ██████████████████▓░░░░░░   75.05 %
-YAML             1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-TOML             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-ActionScript     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-ActionScript 3   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Rust           10 hrs 11 mins  ████████████████████▒░░░░   81.81 %
+YAML           1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+TOML           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+ActionScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Bash           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
