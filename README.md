@@ -20,11 +20,11 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     15 hrs 10 mins  ███████████████████▓░░░░░   78.17 %
-Assembly       2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-YAML           1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Ezhil          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Docker         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TypeScript     9 hrs 21 mins   ████████████████▓░░░░░░░░   67.06 %
+Assembly       2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+YAML           1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+JSON           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Ezhil          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
