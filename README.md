@@ -20,11 +20,11 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   33 hrs 20 mins  █████████████████████▒░░░   84.88 %
-GDScript3    1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JavaScript   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-YAML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript   33 hrs 48 mins  ██████████████████████░░░   87.76 %
+GDScript3    1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+JavaScript   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+CSS          41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
