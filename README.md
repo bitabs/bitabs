@@ -20,11 +20,11 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       28 hrs 10 mins  ███████████████████████▒░   93.37 %
-TSQL             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-TSConfig         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-ActionScript 3   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TypeScript       29 hrs 41 mins  ██████████████████████▓░░   91.09 %
+TSQL             1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JSON             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TSConfig         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+ActionScript 3   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
