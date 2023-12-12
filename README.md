@@ -20,10 +20,10 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 43 mins   ███████████████████████▒░   93.22 %
-MDX          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   4 hrs 44 mins   ███████████████████████▓░   95.23 %
+MDX          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
