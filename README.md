@@ -20,11 +20,11 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 38 mins   ██████████████████████▒░░   89.52 %
-Vue.js       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-MDX          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+TypeScript   46 mins         ██████████████████▓░░░░░░   74.07 %
+Vue.js       8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+JavaScript   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
