@@ -20,9 +20,7 @@ Let's make some coding magic together!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 mins         █████████████████████▓░░░   86.79 %
-Bash         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+JSON   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
