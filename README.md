@@ -1,11 +1,11 @@
 # 💫 About Me
 
-- 🛠 I’m currently working on<br>My personal portfolio and selected side projects, focused on building impactful, well-crafted products with strong engineering foundations.
-- 🤝 I’m looking to collaborate on<br>Developer tools, SaaS products, and open-source projects where quality, performance, and thoughtful design matter.
-- 🙌 I’m looking for help with<br>Product discovery, design feedback, and refining ideas that solve real-world problems.
-- 🌱 I’m currently learning<br>System design at scale, performance optimization, and improving developer experience across frontend and backend systems.
-- 💬 Ask me about<br>JavaScript/TypeScript, React, Node.js, system design, testing strategies, and writing clean, maintainable code.
-- ⚡ Fun fact<br>I usually wait for entire anime season to finish and binge watch in 24h to 48h
+- 🛠 **I’m currently working on:**<br>My personal portfolio and selected side projects, focused on building impactful, well-crafted products with strong engineering foundations.
+- 🤝 **I’m looking to collaborate on:**<br>Developer tools, SaaS products, and open-source projects where quality, performance, and thoughtful design matter.
+- 🙌 **I’m looking for help with:**<br>Product discovery, design feedback, and refining ideas that solve real-world problems.
+- 🌱 **I’m currently learning:**<br>System design at scale, performance optimization, and improving developer experience across frontend and backend systems.
+- 💬 **Ask me about:**<br>JavaScript/TypeScript, React, Node.js, system design, testing strategies, and writing clean, maintainable code.
+- ⚡ **Fun fact:**<br>I usually wait for entire anime season to finish and binge watch in 24h to 48h. Love to travel and code
 
 
 ## 💻 Tech Stack:
