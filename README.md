@@ -1,27 +1,21 @@
-# Hya 👋 Nas here
+# 💫 About Me
 
-👋 Full-stack engineer here, with a knack for flawlessly combining programming wizardry and stunning design. Let's keep it short and sweet:
+- 🛠 I’m currently working on<br>My personal portfolio and selected side projects, focused on building impactful, well-crafted products with strong engineering foundations.
+- 🤝 I’m looking to collaborate on<br>Developer tools, SaaS products, and open-source projects where quality, performance, and thoughtful design matter.
+- 🙌 I’m looking for help with<br>Product discovery, design feedback, and refining ideas that solve real-world problems.
+- 🌱 I’m currently learning<br>System design at scale, performance optimization, and improving developer experience across frontend and backend systems.
+- 💬 Ask me about<br>JavaScript/TypeScript, React, Node.js, system design, testing strategies, and writing clean, maintainable code.
+- ⚡ Fun fact<br>I usually wait for entire anime season to finish and binge watch in 24h to 48h
 
-- 🔭 Building my portfolio, crafting a killer Design System, and tackling tricky challenges.
-- 🌱 Learning Rust, Go, and Bun—because who doesn't love adding new languages to their arsenal?
-- 👯 Ready to collaborate on game-changing projects that leave a lasting impact on the dev community.
-- 🤔 Seeking guidance from the Rust, Go, and Bun gurus out there. Help a developer out!
-- 💬 Ask me anything about React, Js, or Design Systems—I've got you covered!
-- 📫 Connect with me on LinkedIn, GitHub, or shoot me an email. Let's chat!
-- ⚡ Fun fact: When I'm not coding like a rockstar, you'll find me indulging in anime, hitting the gym, devouring blogs, and passionately despising UI inconsistencies.
 
-GitHub: github.com/bitabs
-Web: nas.engineer (work in progress 🕒)
+## 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bitabs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bitabs&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitabs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Let's make some coding magic together!
+---
+[![](https://visitcount.itsvg.in/api?id=bitabs&icon=0&color=0)](https://visitcount.itsvg.in)
 
--------
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
--------
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
